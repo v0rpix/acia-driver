@@ -1,0 +1,10 @@
+# Backup files (created by editors like Emacs, Vim, etc.)
+*~
+
+# Build directory and compiled binaries
+build/
+*.prg
+*.bin
+
+# VS Code personal settings (to avoid conflicts between contributors)
+.vscode/settings.json

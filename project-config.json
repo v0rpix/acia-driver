@@ -1,6 +1,6 @@
 {
-    "name": "ACIA Driver",
-    "description": "Project ACIA Driver",
+    "name": "acia-driver",
+    "description": "ACIA 6551 driver for Commodore 64 BASIC V2.0",
     "toolkit": "kick",
     "sources": [
         "src/main.asm"
