@@ -1,0 +1,13 @@
+{
+    "name": "ACIA Driver",
+    "description": "Project ACIA Driver",
+    "toolkit": "kick",
+    "sources": [
+        "src/main.asm"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
